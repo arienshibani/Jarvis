@@ -10,7 +10,7 @@ import React, { useState, useEffect } from 'react';
 
 
 export default function Home() {
-  const [state, setState] = useState("results");
+  const [state, setState] = useState("init");
 
   const handleLoading = () => {
     setState("loading")

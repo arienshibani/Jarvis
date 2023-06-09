@@ -22,6 +22,7 @@ export default function Home() {
           background-color: pink;
         }
         appbar {
+          background-color: #cf4136;
           width: 100%;
         }
         footer {

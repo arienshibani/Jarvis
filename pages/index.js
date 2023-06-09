@@ -1,9 +1,6 @@
 import ButtonAppBar from './components/AppBar';
 import { Typography, Button, CircularProgress } from '@mui/material';
-import Card from '@mui/material/Card';
 import SimpleAccordion from './components/Accordion';
-import { display } from '@mui/system';
-import BasicSelect from './components/Select';
 import React, { useState, useEffect } from 'react';
 
 

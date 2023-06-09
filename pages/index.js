@@ -34,14 +34,13 @@ export default function Home() {
   if(state === "init"){
     return (
       <>
-      
         <ButtonAppBar className='appbar'/>
   
         <main style={{display: "flex", alignItems: "center", flexDirection: "column" }}>
         <div style={{paddingTop: "5rem"}}>
   
         <Typography variant="h3" component="h3">
-          Loan Process
+          Your professional process optimizer
         </Typography>
   
   
